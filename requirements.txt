@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+openai
+python-dotenv
+python-telegram-bot>=20
+scikit-learn
+pytest
